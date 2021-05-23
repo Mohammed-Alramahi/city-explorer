@@ -1,11 +1,13 @@
 # City Explorer
 
 **Author**: Mohammed Al-Ramahi
+
 **Version**: v 1.0.0 
 
 ## Overview
 
 This app will help you to find maps and coordinations based on city provided.
+
 ## Getting Started
 
 1-type the city name.
