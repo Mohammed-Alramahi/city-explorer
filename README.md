@@ -11,7 +11,7 @@ This app will help you to find maps and coordinations based on city provided.
 1-type the city name.
 2-search. 
 
-## Architecture
+ ## Architecture
 
 React, React-Bootstrap, LocationIq api
 
